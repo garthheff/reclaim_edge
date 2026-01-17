@@ -44,7 +44,7 @@
 ```
 
 Load the extension
-1. Open edge://extensions
+1. Open `edge://extensions`
 2. Enable Developer mode
 3. Click Load unpacked
 4. Select the extension folder
