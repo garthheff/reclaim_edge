@@ -1,4 +1,4 @@
-# reclaim_edge
+# [reclaim_edge](https://github.com/garthheff/reclaim_edge/blob/main/reclaim_guide.md)
 
 A guide for taking back control of Microsoft Edge New Tab, startup, home, and address bar behavior.
 
